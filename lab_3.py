@@ -16,4 +16,6 @@ plt.xlabel("Hour of the day")
 plt.ylabel("Frequency")
 plt.title("1NT22CS002 Aashutosh")
 plt.grid(True)
+plt.show()
+
 
